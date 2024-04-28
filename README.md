@@ -195,6 +195,12 @@ Last but not least, application load balancing, application health checks, activ
 The following articles describe load balancing with NGINX Plus in more detail:
 
 * Load Balancing with NGINX and NGINX Plus
+
+https://www.nginx.com/blog/load-balancing-with-nginx-plus/
 * Load Balancing with NGINX and NGINX Plus part 2
+https://www.nginx.com/blog/load-balancing-with-nginx-plus-part-2/
+
+
+
 
 
