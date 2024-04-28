@@ -87,7 +87,7 @@ Para arrancar un contenedor con esta configuración se hace igual que en el punt
 
 
 
-### Using nginx as HTTP load balancer
+# Using nginx as HTTP load balancer
 
 ## Introduction
 Load balancing across multiple application instances is a commonly used technique for optimizing resource utilization, maximizing throughput, reducing latency, and ensuring fault-tolerant configurations.
